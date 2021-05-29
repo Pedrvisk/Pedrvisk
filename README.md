@@ -1,16 +1,32 @@
-### Hi there 👋
+# <a href="https://github.com/Pedrvisk"><img width="25px" src="https://simpleicons.org/icons/github.svg" alt="Github"/></a>  Welcome to my Github! <img src="https://komarev.com/ghpvc/?username=Pedrvisk" alt="Pedrovisk" />
 
-<!--
-**Pedrvisk/Pedrvisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Snownan" height="200px" src="https://acegif.com/wp-content/gifs/snowman-6.gif" />
 
-Here are some ideas to get you started:
+```js
+function Learn({
+    Start = Boolean
+}) {
+    let Learn = {
+        languages: {
+            learning: [Javascript, Html, Css],
+            interests: [Java, Lua, Python, C++]
+        },
+        databases: {
+            learning: [Firebase, Sqlite3],
+            interests: [DynamoDB, PostgreSQL, MongoDB]
+        },
+        ide: [Visual Studio Code]
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    if (Start && Learn) {
+        let Dev = new Developer('Pedrvisk');
+        if (Dev.OpenIde()) {
+            Dev.StartLearn();
+        };
+    }
+}
+
+setTimeout(async () => await Learn({ Start: true }), ∞)
+```
+
+---
