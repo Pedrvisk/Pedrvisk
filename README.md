@@ -36,11 +36,13 @@
 </p>
 <!--/Section-->
 
+<!--Section-->
 <h4 align='center'>
    📊 This is how I'm spending my time
 </h4>
-
+<p align='center'>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+</p>
+<!--/Section-->
 
