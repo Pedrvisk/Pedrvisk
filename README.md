@@ -2,7 +2,6 @@
 <h2 align='center'>
   <img src='https://visitcount.itsvg.in/api?id=Pedrvisk&icon=2&color=12' />
   <br>
-  <br>
   Hello Everyone!
 </h2>
 <!--/Heading-->
@@ -16,7 +15,7 @@
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-<!--/Section-->
+<!--/Section--> 
 
 <!--Section-->
 <h4 align='center'>
@@ -37,7 +36,6 @@
 </p>
 <!--/Section-->
 
-<!--Section-->
 <h4 align='center'>
    📊 This is how I'm spending my time
 </h4>
@@ -45,5 +43,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!--/Section-->
 
