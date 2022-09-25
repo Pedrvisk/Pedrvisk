@@ -2,13 +2,13 @@
 <h6 align='end'>
    <img align='end' src='https://visitcount.itsvg.in/api?id=Pedrvisk&icon=2&color=12' />
 </h6>
-<h6 align='center'>
+
   
   
-<!-- lastfm -->
+<!-- lastfm -->\n
   
   
-</h6>
+
 <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKgw_s-H07M8TJYdUnrhvIJ__dr7A2vlx4oQ&usqp=CAU -->
 <!-- https://i1.sndcdn.com/visuals-000370100207-hkVOxt-original.jpg -->
 <h2 align='center'>
