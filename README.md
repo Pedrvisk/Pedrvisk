@@ -73,10 +73,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 11 hrs 51 mins
+Total Time: 12 hrs 58 mins
 
-JavaScript   11 hrs 24 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   96.27 %
-Other        10 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.41 %
+JavaScript   12 hrs 23 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   95.55 %
+JSON         16 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.10 %
+Other        10 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.29 %
 ```
 
 <!--END_SECTION:waka-->
