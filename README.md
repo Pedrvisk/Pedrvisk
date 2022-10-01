@@ -4,10 +4,11 @@
 
 <!--Heading-->
 <h2 align='center'>
-   Hi, I'm Pedro
+   👋 Hello! I'm Pedro.
 </h2>
+<br/>
 <p align='center'>
-   My favorite hobbies are listening to music, reading and programming.
+   • My favorite hobbies are <strong>listening to music</strong>, <strong>reading</strong> and <strong>programming</strong>.
 </p>
 <!--/Heading-->
 
@@ -28,6 +29,7 @@
      <img src='https://img.shields.io/badge/Spotify-1db954.svg?&style=for-the-badge&logo=spotify&logoColor=white' />        
   </a> 
 </p>
+<br/>
 <!--/Section--> 
 
 <!--Section-->
@@ -47,6 +49,7 @@
   <img src='https://img.shields.io/badge/MongoDB-589636.svg?style=for-the-badge&logo=mongodb&logoColor=white' />&nbsp;&nbsp;
   <img src='https://img.shields.io/badge/Firebase-F6820D.svg?style=for-the-badge&logo=firebase&logoColor=white' />
 </p>
+<br/>
 <!--/Section-->
 
 <!--Section-->
@@ -56,19 +59,18 @@
 
 
 
-
 <!-- lastfm -->
 <p align="center"><a href="https://www.last.fm/music/Terno+Rei/Violeta"><img src="https://lastfm.freetls.fastly.net/i/u/64s/401ac753d56ca9d2f75a9f341d684b84.jpg" title="Terno Rei - Violeta"></a> <a href="https://www.last.fm/music/%D0%9C%D0%BE%D1%80%D0%B5+%D0%AF%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/%D0%9C%D0%BE%D1%80%D0%B5+%D0%AF%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8"><img src="https://lastfm.freetls.fastly.net/i/u/64s/57be1fe91dde9267bc81ed7fef93aa0a.jpg" title="Море Ясности - Море Ясности"></a> <a href="https://www.last.fm/music/gorduratrans/repert%C3%B3rio+infind%C3%A1vel+de+dolorosas+piadas"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8d5c724d13cef5838af320dc84d48972.jpg" title="gorduratrans - repertório infindável de dolorosas piadas"></a> <a href="https://www.last.fm/music/Ludovic/Idioma+Morto"><img src="https://lastfm.freetls.fastly.net/i/u/64s/06d7bcc1f23304fc552355f25d263556.jpg" title="Ludovic - Idioma Morto"></a> <a href="https://www.last.fm/music/Motorama/Alps"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4bce47bde76b4f74aa595d767416481a.png" title="Motorama - Alps"></a> <a href="https://www.last.fm/music/SLSD/Olhos+Abertos,+Bocas+Fechadas+-+EP"><img src="https://lastfm.freetls.fastly.net/i/u/64s/87c142981af69e59f46384ef63f5ebcc.jpg" title="SLSD - Olhos Abertos, Bocas Fechadas - EP"></a> <a href="https://www.last.fm/music/Viratempo/Cura"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d82bc8b23cd335a219d5c87e30eb616b.jpg" title="Viratempo - Cura"></a> <a href="https://www.last.fm/music/buerak/%D0%91%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3ee7a477cf884b6dc8ea4ae12ab738f7.jpg" title="buerak - Бесконтактное общение"></a> <a href="https://www.last.fm/music/Kamaitachi/Homem+Torto"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cd23a7bf322811b892cbcdc61993bca5.jpg" title="Kamaitachi - Homem Torto"></a> <a href="https://www.last.fm/music/masha+i+medvedi/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%BA%D0%BB%D0%B5%D1%88"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7d8885a89d0b835b0f81f681ce317fd8.jpg" title="masha i medvedi - Солнцеклеш"></a> </p>
 
 
 
+<br/>
 <!--/Section-->
 
 <!--Section-->
 <h4 align='center'>
    📊 How I spend my time
 </h4>
-<p align='center'>
 
 <!--START_SECTION:waka-->
 
@@ -78,5 +80,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
   
-</p>
 <!--/Section-->
