@@ -37,17 +37,20 @@
   👨🏻‍💻 Languages and tools
 </h4>
 <p align='center'>
+  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />&nbsp;&nbsp;
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white' />
+  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
   <br/>
-  <img src='https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/Css3-264de4.svg?style=for-the-badge&logo=css3&logoColor=white' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/Html5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/MongoDB-589636.svg?style=for-the-badge&logo=mongodb&logoColor=white' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/Firebase-F6820D.svg?style=for-the-badge&logo=firebase&logoColor=white' />
+  <img src='https://img.shields.io/badge/Express-404D59.svg?&style=for-the-badge&logo=express&logoColor=white' />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white' />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+  <br/>
+  <img src='https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white' />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white' />
 </p>
 <br/>
 <!--/Section-->
