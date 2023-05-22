@@ -1,10 +1,10 @@
 <h6 align='end'>
-   <img src='https://visitcount.itsvg.in/api?id=Pedrvisk&icon=2&color=12' />
+   <img align="center" src="https://profile-counter.glitch.me/{Pedrvisk}/count.svg" />
 </h6>
 
 <!--Heading-->
 <h2 align='center'>
-   👋 Hello! I'm Pedro.
+   👋 Hello! I'm Pedro. 
 </h2>
 <br/>
 <p align='center'>
