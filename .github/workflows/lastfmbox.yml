@@ -7,8 +7,10 @@ jobs:
   musicbox:
    runs-on: ubuntu-latest
    steps:
-     - uses: jacc/music-box@master
+     - uses: actions/checkout@v2
      - run: npm install
+     - name: Update
+     - uses: jacc/music-box@master
        env:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
