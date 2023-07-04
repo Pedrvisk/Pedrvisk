@@ -8,9 +8,8 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-     - run: npm install
-     - name: Update
-     - uses: ./
+     - name: lastfm gist
+       uses: jacc/music-box@typescript
        env:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
