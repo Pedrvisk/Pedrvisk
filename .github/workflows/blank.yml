@@ -1,18 +1,19 @@
 name: music-box
+
 on:
   schedule:
     - cron: '0 * * * *'  # hourly
-  push:
-    branches: master
+  workflow_dispatch:
+  
 jobs:
   musicbox:
+   name: WakaTime Readme with Metrics
    runs-on: ubuntu-latest
    steps:
-     - uses: actions/checkout@v2
+     - uses: abordage/wakatime-box@master
      - run: npm install
      - name: Update
-       uses: abordage/wakatime-box@master
-       env:
+       with:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LFMUSERNAME: ${{ secrets.LFMUSERNAME }}
