@@ -12,7 +12,7 @@ jobs:
    steps:
      - uses: abordage/wakatime-box@master
        with:
-          LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LFMUSERNAME: ${{ secrets.LFMUSERNAME }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          INPUT_LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
+          INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          INPUT_LFMUSERNAME: ${{ secrets.LFMUSERNAME }}
+          INPUT_GIST_ID: ${{ secrets.GIST_ID }}
