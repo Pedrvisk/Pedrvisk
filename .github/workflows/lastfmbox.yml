@@ -8,11 +8,11 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-     - run: npm install
      - name: Update
-     - uses: jacc/music-box@master
-       env:
+       uses: jacc/music-box@master
+       with:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LFMUSERNAME: ${{ secrets.LFMUSERNAME }}
           GIST_ID: ${{ secrets.GIST_ID }}
+     - run: npm install
