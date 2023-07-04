@@ -1,18 +1,1 @@
-name: music-box
 
-on:
-  schedule:
-    - cron: '0 * * * *'  # hourly
-  workflow_dispatch:
-  
-jobs:
-  musicbox:
-   name: WakaTime Readme with Metrics
-   runs-on: ubuntu-latest
-   steps:
-     - uses: abordage/wakatime-box@master
-       with:
-          INPUT_LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
-          INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          INPUT_LFMUSERNAME: ${{ secrets.LFMUSERNAME }}
-          INPUT_GIST_ID: ${{ secrets.GIST_ID }}
