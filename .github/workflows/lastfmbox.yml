@@ -10,7 +10,7 @@ jobs:
     - name: download respository
       uses: actions/checkout@v2
     - name: download respository
-      uses: jacc/music-box@master    
+    - uses: jacc/music-box@master    
       env:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
