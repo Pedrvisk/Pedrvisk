@@ -7,14 +7,12 @@ jobs:
   musicbox:
    runs-on: ubuntu-latest
    steps: 
-    - name: download respository
     - uses: actions/checkout@v2
-    - name: download respository
-    - uses: jacc/music-box@master    
+    - run: npm install
+    - name: Update
+      uses: jacc/music-box@master    
       env:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LFMUSERNAME: ${{ secrets.LFMUSERNAME }}
           GIST_ID: ${{ secrets.GIST_ID }} 
-    - name: download respository
-      run: npm install
