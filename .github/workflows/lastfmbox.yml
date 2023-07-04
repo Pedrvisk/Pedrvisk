@@ -13,7 +13,7 @@ jobs:
       with: 
         node-version: "14.x"
     - name: Install dependencies
-    - run: npm install
+      run: npm install
     - uses: jacc/music-box@master
       env:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
