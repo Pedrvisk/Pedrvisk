@@ -8,7 +8,8 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: jacc/music-box@master
-       with:
+     - run: npm install
+       env:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LFMUSERNAME: ${{ secrets.LFMUSERNAME }}
