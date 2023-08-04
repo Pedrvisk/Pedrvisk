@@ -4,7 +4,7 @@ I program in various languages, such as **Java**, **NodeJS**, **Typescript** and
 
 💼 I am currently looking for a full-time job as a **Developer**.  
 📫 If you want to contact me, you can do so through the following means:  
-  - **Website**: https://pedrovisk.ml
+  - **Website**: https://pedrovisk.dev
   - **Email**: service.miuky@gmail.com 
   - **Discord**: Pedrovisk
     
