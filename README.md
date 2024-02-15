@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-I am **Pedro**, a **20** year old programmer from **Brazil**.  
+I am **Pedro**, a **21** year old programmer from **Brazil**.  
 I program in various languages, such as **Java**, **NodeJS**, **Javascript**, **Typescript**, **React** and **NextJS**.  
 
 💼 I am currently looking for a full-time job as a **Developer**.  
@@ -9,4 +9,4 @@ I program in various languages, such as **Java**, **NodeJS**, **Javascript**, **
   - **Discord**: Pedrovisk
   - **Project**: https://miuky.xyz
     
-🌱 I’m currently learning **Java** - **SpringBoot**
+🌱 I’m currently learning **Java**(**SpringBoot**) and **NestJS**
