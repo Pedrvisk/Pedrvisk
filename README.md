@@ -9,4 +9,4 @@ I program in various languages and frameworks, such as **Java**, **NodeJS**, **J
   - **Discord**: Pedrovisk
   - **Project**: https://miuky.xyz
     
-🌱 I’m currently learning **Java**(**SpringBoot**) and **NestJS**
+🌱 I’m currently learning **Java** and **NestJS**
