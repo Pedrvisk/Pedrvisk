@@ -1,12 +1,20 @@
 ### Hi there! 👋  
-I am **Pedro**, a **21** year old programmer from **Brazil**.  
-I program in various languages and frameworks, such as **Java**, **NodeJS**, **Python**, **Javascript**, **Typescript**, **React**, **Vue**, **Nuxt** and **Next**.  
+I am **Pedro**, a **22-year-old** programmer from **Brazil**.  
+Currently working as a **DevOps Engineer**, focused on development and automation. 
 
-💼 I am currently looking for a full-time job as a **Developer**.  
+I work with a variety of languages, frameworks, and tools, including: JavaScript · TypeScript · React · Vue · Next.js · Nuxt · Node.js · Python · Java · REST APIs · SQL · PostgreSQL · MySQL · NGINX · Apache · Reverse Proxy.
+
+🛠️ Projects & Experience: 
+- Built a **custom CRM** from scratch  
+- Developed a **web software** to manage **classes and students**  
+- Worked on the **integration of two systems via API**, ensuring smooth data sync and communication  
+
 📫 If you want to contact me, you can do so through the following means:  
-  - **Website**: https://pedrovisk.dev
-  - **Email**: support@pedrovisk.dev 
-  - **Discord**: Pedrovisk
-  - **Project**: https://miuky.xyz
-    
-🌱 I’m currently learning **Java** and **NestJS**
+- **Website** [pedrovisk.dev](https://pedrovisk.dev)  
+- **E-mail**: support@pedrovisk.dev  
+- **Discord**: Pedrovisk  
+- **Main Project**: [miuky.xyz](https://miuky.xyz)
+---
+```csharp
+Console.WriteLine("Connecting to the database...");
+```
