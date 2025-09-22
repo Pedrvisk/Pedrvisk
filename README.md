@@ -12,8 +12,7 @@ I work with a variety of languages, frameworks, and tools, including: JavaScript
 📫 If you want to contact me, you can do so through the following means:  
 - **Website** [pedrovisk.dev](https://pedrovisk.dev)  
 - **E-mail**: support@pedrovisk.dev  
-- **Discord**: .pedrovisk  
-- **Main Project**: [miuky.xyz](https://miuky.xyz)
+- **Discord**: .pedrovisk
 ---
 ```csharp
 Console.WriteLine("Connecting to the database...");
