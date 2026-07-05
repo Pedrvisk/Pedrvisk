@@ -2,7 +2,7 @@
 I am **Pedro**, a **22-year-old** programmer from **Brazil**.  
 Currently working as a **DevOps Engineer**, focused on development and automation. 
 
-I work with a variety of languages, frameworks, and tools, including: JavaScript · TypeScript · React · Vue · Next.js · Nuxt · Node.js · Python · Java · REST APIs · SQL · PostgreSQL · MySQL · NGINX · Apache · Reverse Proxy.
+I work with a variety of languages, frameworks, and tools, including: Rust · Go · JavaScript · TypeScript · React · Vue · Next.js · Nuxt · Node.js · Python · Java · REST APIs · SQL · PostgreSQL · MySQL · NGINX · Apache · Reverse Proxy.
 
 🛠️ Projects & Experience: 
 - Built a **custom CRM** from scratch  
